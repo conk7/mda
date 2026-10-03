@@ -1,0 +1,13 @@
+[project]
+name = "mda-lab1"
+version = "0.1.0"
+description = "Лабораторная работа 1 по методам анализа данных"
+requires-python = ">=3.14,<3.15"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "xlrd>=2.0.2",
+]
